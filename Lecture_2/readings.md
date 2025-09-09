@@ -10,10 +10,10 @@
 * **Discusses** mechanisms by which diversity benefits groups:
   * **Cognitive pathways**: diverse knowledge/perspectives lead to better problem-solving.
   * **Information elaboration pathways**: diversity reduces groupthink, encourages dissent, and improves critical discussion.
-![alt text](image.png)
+![alt text](images/image.png)
 * Applies these ideas to the **ML lifecycle** (problem formulation, data collection/labeling, design, development, deployment).
 * Emphasizes that diversity interventions should not be **performative** (e.g., hiring for optics only) but grounded in specific goals and mechanisms.
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ## Conclusions
 * Diversity is **not one-dimensional**; different contexts require different concepts.
