@@ -8,6 +8,15 @@
 > **Den ontologiske vending**:
 > En teoretisk bevægelse i antropologi og samfundsvidenskab, hvor *fokus skifter fra at forstå andres verdensbilleder som fortolkninger af én virkelighed til at tage deres verdener seriøst som reelt eksisterende* – altså som ontologisk forskellige virkeligheder.
 
+Ontologi:
+* Væren
+* Mægnden at det der er (objekter, personer, egenskaber, relationer)
+
+Eksempel:
+* Tastatur er forskelligt fra land til land. Der er forksellige egenskaber ift. hvilke alfabeter vi bruger.
+
+> Der findes ikke ét verdenssyn på ontologier, men tværtimod, der er mange forskellige verdensyn.
+
 ### Kloden drejer og skaber vendinger/turns i tænkning, metodologi og dominans.
 
 * **Bølger**:
